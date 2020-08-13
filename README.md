@@ -7,14 +7,6 @@ This is the place where I opensource stuff and break things :rofl:
 - 📫 How to reach me: [@puffingcheeks](https://twitter.com/puffingcheeks)
 - ⚡ Fun fact: I :heart: :dog:s
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://dementev.tech)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/puffingcheeks)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://twitter.com/nik-dementev)
-
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
