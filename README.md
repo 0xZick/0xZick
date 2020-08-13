@@ -24,7 +24,3 @@ This is the place where I opensource stuff and break things :rofl:
 <img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ipfs-logo-1024-ice-text.png/768px-Ipfs-logo-1024-ice-text.png" />
 
 <br />
-
----
-
-// <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nikdementev&show_icons=true&hide_border=true" />
