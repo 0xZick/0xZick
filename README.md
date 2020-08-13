@@ -27,4 +27,4 @@ This is the place where I opensource stuff and break things :rofl:
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nikdementev&show_icons=true&hide_border=true" />
+// <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nikdementev&show_icons=true&hide_border=true" />
