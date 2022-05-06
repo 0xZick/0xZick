@@ -3,7 +3,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning everything 🤣
-- 💬 Ask me about anything related to Javascript/Typescript or React/Ethereum/Bitcoin
+- 💬 Ask me about anything related to Javascript/Solidity or React/Ethereum/Bitcoin
 - 📫 How to reach me: [@0xZick](https://twitter.com/0xZick)
 - ⚡ Fun fact: I :heart: :dog:s
 
