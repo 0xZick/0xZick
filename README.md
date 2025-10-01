@@ -9,7 +9,6 @@ This is the place where I opensource stuff and break things :rofl:
 
 ### Languages and Tools:
 
-<img align="left" alt="GitHub" width="26px" src="https://commons.wikimedia.org/wiki/File:Solidity_logo.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ETHEREUM-YOUTUBE-PROFILE-PIC.png/600px-ETHEREUM-YOUTUBE-PROFILE-PIC.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
 <img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1024px-Bitcoin.svg.png" />
